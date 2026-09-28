@@ -1,0 +1,39 @@
+{
+  "name": "S.A.M.COMPTA",
+  "short_name": "S.A.M.COMPTA",
+  "description": "Application de comptabilité multi-sociétés — sociétés, plan comptable, journaux, grand livre, balance, bilan, compte de résultat. Fonctionne hors ligne.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#1A2E1E",
+  "theme_color": "#1A2E1E",
+  "lang": "fr",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "icon-48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
